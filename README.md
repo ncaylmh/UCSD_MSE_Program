@@ -1,2 +1,3 @@
-# MAE292_CAD_UCSD_2020Spring
+# UCSD_MSE_Program
+ MATs201
  Note &amp;Hw &amp; Mid &amp; Final
